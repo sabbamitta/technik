@@ -1,0 +1,16 @@
+Committing to git and pushing to GitHub
+
+Committing:
+git add -A
+git commit -m "adding translation folders"
+
+Pushing to GitHub:
+git push
+
+Looking up earlier versions:
+"History"
+"Blame" (see exact changes in a particular version)
+
+Checking branch:
+git branch
+(Result: "* master")
